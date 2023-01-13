@@ -40,7 +40,11 @@
                 $name_title = "นางสาว";
             }
         }
-        echo $name_title. "   ".$name."    ".$age."    ".$gender."    ".$marrital_status;
+        "<br>";
+        echo "Name : " .$name_title. " ".$name."<br>";
+        echo "Age : " .$age."<br>";
+        echo "Gender : " .$gender."<br>";
+        echo "Marrital status : " .$marrital_status."<br>";
     ?>
 </body>
 

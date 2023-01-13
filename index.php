@@ -4,11 +4,15 @@
 <body>
 
     <form action="show.php">
+        <br>
         What is your name:<input type = "text" name = "name"><br>
+        <br>
         What is your age:<input type = "text" name = "age"><br>
+        <br>
         What is your gender: <br>
         <input type="radio" name="gender" value="male"> male<br>
         <input type="radio" name="gender" value="female"> female<br>
+        <br>
         What is your marrital status:<br>
         <input type = "radio" name = "marrital_status" value="single"> single<br>
         <input type = "radio" name = "marrital_status" value="married"> married<br>
